@@ -1,6 +1,6 @@
 cask "quick-cookies" do
-  version "1.2.2" # 改为您发布到 GitHub 的 Tag 版本号（例如：1.0.0）
-  sha256 "845a8074f37a0335b3e934623746f9dca87d4ef1d51dca905f31620d5f344399"
+  version "1.2.3" # 改为您发布到 GitHub 的 Tag 版本号（例如：1.0.0）
+  sha256 "af682f66bcc2bfea0e05c398e69e275aba322693adb0af7454d8dd64a9290c71"
 
   # 引用您的 hi-zeroed/quick-cookies 仓库 Releases 下载地址
   url "https://github.com/hi-zeroed/quick-cookies/releases/download/v#{version}/QuickCookies-macOS.dmg"
